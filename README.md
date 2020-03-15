@@ -21,5 +21,8 @@ var_dump(mat($text));// false
 Код взят из
 -------
 https://github.com/vearutop/php-obscene-censor-rus
+
 https://github.com/expalmer/php-bad-words
+
 https://github.com/MauriceButler/badwords
+
